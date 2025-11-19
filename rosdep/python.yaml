@@ -29,6 +29,10 @@ adafruit-pca9685-pip:
   ubuntu:
     pip:
       packages: [adafruit-pca9685]
+ai2thor:
+  ubuntu:
+    pip:
+      packages: [ai2thor]
 astrometry-pip:
   debian:
     pip:
